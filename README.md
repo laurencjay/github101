@@ -1,5 +1,5 @@
 # Github 101
-Introduction to github presentation at General Assembly 
+Introduction to github presentation at General Assembly 🎉
 
 ## Instructions for Github 101 activity 
 
